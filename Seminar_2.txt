@@ -3,3 +3,5 @@ New line
 Second line for fun
 
 Third line without an error
+
+Going without a commit
