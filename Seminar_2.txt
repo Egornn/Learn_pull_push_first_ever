@@ -2,4 +2,4 @@ New line
 
 Second line for fun
 
-Thirt line with an error
+Third line without an error
