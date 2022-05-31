@@ -6,3 +6,4 @@ Third line without an error
 
 Going without any commit from an error 
 
+Before push
