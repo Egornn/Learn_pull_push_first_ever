@@ -2,4 +2,7 @@ New line
 
 Second line for fun
 
-Third line with an error
+Third line without an error
+
+Going without any commit from an error 
+
